@@ -48,7 +48,7 @@ DONG_SHP        = DATA_DIR / "BND_ADM_DONG_PG" / "BND_ADM_DONG_PG.shp"
 MISSING_XLSX    = DATA_DIR / "seoul_missing_by date.xlsx"
 DEMENTIA_CENTER = RAW_DIR / "전국치매센터표준데이터.csv"
 DEMENTIA_POP    = RAW_DIR / "보건복지부_시군구별 치매현황_20251231.csv"
-UPIS_SHP        = BASE / "UQ111_용도지역(도시지역)_202602" / "shp파일" / "UPIS_C_UQ111.shp"
+UPIS_SHP        = BASE / "UQ111_용도지역_도시지역_202602" / "shp파일" / "UPIS_C_UQ111.shp"
 
 # ─────────────────────────────────────────────
 # 서울 그리드 스펙
